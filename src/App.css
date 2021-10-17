@@ -36,3 +36,40 @@
     transform: rotate(360deg);
   }
 }
+
+#nav {
+  background-color: #2fbde4 !important;
+  height: 50px;
+  color: white;
+}
+
+.desc-div {
+  padding-top: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 5px;
+}
+
+.desc-div p {
+  color: gray;
+  font-weight: 200;
+}
+
+.desc-div h2 {
+  font-weight: 100;
+}
+
+.beerList {
+  display: flex;
+  padding: 10px;
+}
+
+.beerList h4 {
+  color: gray;
+  font-size: 40;
+  font-weight: 200;
+}
+
+.beerInfo {
+  padding: 10px;
+}
